@@ -1,31 +1,132 @@
-### 👋 Привет, я Сухроб!
+<div align="center">
 
-**Студент 2-го курса · Прикладная математика и информатика · МГУ, Душанбе**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9,1f6feb&height=200&section=header&text=Suhrob%20Davlatov&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Math%20%26%20CS%20Student%20%7C%20Python%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=18" width="100%"/>
 
----
+</div>
 
-#### 🔭 Чем занимаюсь
+<div align="center">
 
-- 📚 Изучаю **Data Analysis** и **Machine Learning**
-- 🤖 Разрабатываю Telegram-ботов и AI-инструменты
-- 🏆 Готовлюсь к олимпиаде *«Илм-фурӯғи маърифат»*
-- 🔬 Интересуюсь функциональным анализом и матфизикой
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davlatov3007)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davlatovsurob@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suhrob4ikk)
 
----
+</div>
 
-#### 🛠 Стек технологий
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; WHO AM I
 
----
+<table>
+<tr>
+<td valign="top" width="55%">
 
-#### 📫 Связаться
+```yaml
+identity:
+  name:      Suhrob Davlatov
+  role:      Math & CS Student
+  location:  Dushanbe, Tajikistan 🇹🇯
+  timezone:  UTC+5
 
-- 📧 davlatovsurob@gmail.com
-- 📍 Душанбе, Таджикистан
+education:
+  university: MSU branch — Dushanbe
+  degree:     Applied Math & CS
+  year:       2nd year
+
+stack:
+  primary:  [ Python, C++ ]
+  data:     [ Pandas, NumPy, Matplotlib ]
+  ai_tools: [ Ollama, LLM, Streamlit ]
+  db:       [ SQL ]
+
+status:
+  studying:  Machine Learning & Data Analysis
+  passion:   Math olympiads
+  goal:      ML Engineer
+  open:      true  # open to internships
+```
+
+</td>
+<td valign="top" width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⚙️ &nbsp; TECH STACK
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Data Science & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Tools & AI**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 &nbsp; SKILLS PROGRESS
+
+<div align="center">
+
+| Technology | Level | Progress |
+|---|---|---|
+| Python | Advanced | ████████░░ 80% |
+| C++ | Intermediate | ██████░░░░ 60% |
+| Pandas / NumPy | Intermediate | ██████░░░░ 65% |
+| Machine Learning | Learning | ████░░░░░░ 40% |
+| SQL | Intermediate | █████░░░░░ 55% |
+| Data Visualization | Learning | ████░░░░░░ 45% |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 &nbsp; STATS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suhrob4ikk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhrob4ikk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Suhrob4ikk&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+◆ &nbsp; Open to opportunities — Dushanbe, Tajikistan &nbsp; ◆
+
+![Visitor Count](https://profile-counter.glitch.me/Suhrob4ikk/count.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9,1f6feb&height=100&section=footer" width="100%"/>
+
+</div>
