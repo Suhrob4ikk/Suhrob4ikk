@@ -25,13 +25,6 @@
 
 ---
 
-#### 📊 GitHub статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhrob4ikk&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhrob4ikk&layout=compact&theme=dark&hide_border=true)
-
----
-
 #### 📫 Связаться
 
 - 📧 davlatovsurob@gmail.com
