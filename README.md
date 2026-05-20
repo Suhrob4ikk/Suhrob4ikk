@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840604f-906a-40f4-9028-19a67ef1ae74.gif" width="100%" />
 
 <br/>
 
@@ -62,7 +62,7 @@ status:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840604f-906a-40f4-9028-19a67ef1ae74.gif" width="100%" />
 
 <br/>
 
@@ -120,7 +120,7 @@ status:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840604f-906a-40f4-9028-19a67ef1ae74.gif" width="100%" />
 
 <br/>
 
@@ -132,19 +132,13 @@ status:
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Suhrob4ikk&show_icons=true&hide_border=true&border_radius=16&title_color=fde68a&icon_color=fb923c&text_color=fed7aa&bg_color=0d0800&count_private=true" width="48%" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Suhrob4ikk&hide_border=true&border_radius=16&background=0d0800&stroke=c2410c&ring=fde68a&fire=fb923c&currStreakNum=fde68a&sideNums=fed7aa&currStreakLabel=fde68a&sideLabels=fb923c&dates=a16207" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Suhrob4ikk&layout=compact&hide_border=true&title_color=fde68a&text_color=fed7aa&bg_color=0d0800&langs_count=8&card_width=860" width="99%" />
+<img src="https://streak-stats.demolab.com/?user=Suhrob4ikk&hide_border=true&border_radius=16&background=0d0800&stroke=c2410c&ring=fde68a&fire=fb923c&currStreakNum=fde68a&sideNums=fed7aa&currStreakLabel=fde68a&sideLabels=fb923c&dates=a16207" width="60%" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840604f-906a-40f4-9028-19a67ef1ae74.gif" width="100%" />
 
 <br/>
 
@@ -160,7 +154,7 @@ status:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840604f-906a-40f4-9028-19a67ef1ae74.gif" width="100%" />
 
 <br/>
 
