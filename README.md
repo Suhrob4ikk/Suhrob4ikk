@@ -1,24 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6e40c9&amp;height=200&amp;section=header&amp;text=Suhrob+Davlatov&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Math+CS+Student+%7C+Python+%7C+AI&amp;descAlignY=58&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0a0015,25:1a0040,60:3d1380,100:0a0015&text=Suhrob%20Davlatov&fontSize=52&fontColor=e2d9f3&animation=twinkling&fontAlignY=52&desc=Math%20%26%20CS%20Student%20%E2%80%94%20Python%20%7C%20ML%20%7C%20AI&descSize=17&descAlignY=70&descColor=9d7cf4" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&height=50&lines=📚+Studying+Applied+Math+%26+CS+%40+MSU+Dushanbe;🤖+Building+AI+tools+and+Telegram+bots;📊+Learning+Machine+Learning+%26+Data+Analysis;🏆+Math+Olympiads+%7C+Dushanbe+→+Global" />
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/—%20Telegram-1a1a2e?style=for-the-badge&logo=telegram&logoColor=A78BFA)](https://t.me/davlatov3007)
+[![Gmail](https://img.shields.io/badge/—%20Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:davlatovsurob@gmail.com)
+[![GitHub](https://img.shields.io/badge/—%20GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=e2d9f3)](https://github.com/Suhrob4ikk)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+<br/>
 
 <div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davlatov3007)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davlatovsurob@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suhrob4ikk)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:1a0050&height=52&text=🧬%20WHO%20AM%20I&fontSize=22&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; WHO AM I
-
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="55%">
+<td width="52%" valign="top" align="left">
 
 ```yaml
 identity:
@@ -46,89 +52,122 @@ status:
 ```
 
 </td>
-<td valign="top" width="45%">
+<td width="48%" valign="top" align="right">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## ⚙️ &nbsp; TECH STACK
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Data Science & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Tools & AI**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 &nbsp; SKILLS PROGRESS
-
-<div align="center">
-
-| Technology | Level | Progress |
-|---|---|---|
-| Python | Advanced | ████████░░ 80% |
-| C++ | Intermediate | ██████░░░░ 60% |
-| Pandas / NumPy | Intermediate | ██████░░░░ 65% |
-| Machine Learning | Learning | ████░░░░░░ 40% |
-| SQL | Intermediate | █████░░░░░ 55% |
-| Data Visualization | Learning | ████░░░░░░ 45% |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 &nbsp; STATS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Suhrob4ikk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Suhrob4ikk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Suhrob4ikk&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-◆ &nbsp; Open to opportunities — Dushanbe, Tajikistan &nbsp; ◆
-
-<img src="https://komarev.com/ghpvc/?username=Suhrob4ikk&color=blue" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6e40c9&amp;height=100&amp;section=footer" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:1a0050&height=52&text=⚙️%20TECH%20STACK&fontSize=22&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
 
+<br/>
+
+<div align="center">
+
+**◈ &nbsp; Languages &nbsp; ◈**
+
+<br/>
+
+<a href="https://www.python.org/doc/" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" /></a>&nbsp;&nbsp;
+<a href="https://cplusplus.com/doc/" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="52" /></a>&nbsp;&nbsp;
+<a href="https://dev.mysql.com/doc/" title="SQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="52" /></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="52" /></a>
+
+<br/><br/>
+
+**◈ &nbsp; Data Science & ML &nbsp; ◈**
+
+<br/>
+
+<a href="https://pandas.pydata.org/docs/" title="Pandas"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="52" /></a>&nbsp;&nbsp;
+<a href="https://numpy.org/doc/" title="NumPy"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="52" /></a>&nbsp;&nbsp;
+<a href="https://jupyter.org/documentation" title="Jupyter"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="52" /></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org/stable/documentation.html" title="Scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="52" /></a>
+
+<br/><br/>
+
+**◈ &nbsp; Tools &nbsp; ◈**
+
+<br/>
+
+<a href="https://git-scm.com/doc" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="52" /></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/docs" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="52" /></a>&nbsp;&nbsp;
+<a href="https://docs.github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="52" /></a>&nbsp;&nbsp;
+<a href="https://docs.streamlit.io/" title="Streamlit"><img src="https://skillicons.dev/icons?i=streamlit&theme=dark" height="52" /></a>
+
+<br/><br/>
+
+| Technology | Level | Progress |
+|:---|:---:|---:|
+| **Python** | Advanced | `████████████` 80% |
+| **C++** | Intermediate | `████████░░░░` 60% |
+| **Pandas / NumPy** | Intermediate | `████████░░░░` 65% |
+| **Machine Learning** | Learning | `█████░░░░░░░` 40% |
+| **SQL** | Intermediate | `███████░░░░░` 55% |
+| **Data Visualization** | Learning | `██████░░░░░░` 45% |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:1a0050&height=52&text=📊%20STATS&fontSize=22&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Suhrob4ikk&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=16&title_color=c4b5fd&icon_color=a78bfa&text_color=a5b4fc&bg_color=0d0020&count_private=true" width="48%" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=Suhrob4ikk&theme=midnight-purple&hide_border=true&border_radius=16&background=0d0020&stroke=7c3aed&ring=c4b5fd&fire=f59e0b&currStreakNum=e2d9f3&sideNums=a5b4fc&currStreakLabel=c4b5fd&sideLabels=818cf8&dates=6d7588" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Suhrob4ikk&layout=compact&theme=midnight-purple&hide_border=true&title_color=c4b5fd&text_color=a5b4fc&bg_color=0d0020&langs_count=8&card_width=860" width="99%" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:1a0050&height=52&text=📈%20ACTIVITY&fontSize=22&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhrob4ikk&theme=react-dark&bg_color=0d0020&color=c4b5fd&line=7c3aed&point=f59e0b&area=true&area_color=1a0050&hide_border=true&radius=12&custom_title=Contribution%20Graph" width="98%" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0a0015,40:1a0040,100:3d1380&section=footer&text=◈%20Open%20to%20opportunities%20—%20Dushanbe%2C%20Tajikistan%20◈&fontSize=16&fontColor=c4b5fd&animation=twinkling&fontAlignY=72" width="100%" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Suhrob4ikk&label=◈%20VISITORS%20◈&color=7c3aed&style=flat-square)
 </div>
