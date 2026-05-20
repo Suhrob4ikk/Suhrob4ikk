@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0a0015,25:1a0040,60:3d1380,100:0a0015&text=Suhrob%20Davlatov&fontSize=52&fontColor=e2d9f3&animation=twinkling&fontAlignY=52&desc=Math%20%26%20CS%20Student%20%E2%80%94%20Python%20%7C%20ML%20%7C%20AI&descSize=17&descAlignY=70&descColor=9d7cf4" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0d0800,25:2d1000,60:7c3000,100:0d0800&text=Suhrob%20Davlatov&fontSize=52&fontColor=fde68a&animation=twinkling&fontAlignY=52&desc=Math%20%26%20CS%20Student%20%E2%80%94%20Python%20%7C%20ML%20%7C%20AI&descSize=17&descAlignY=70&descColor=fb923c" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&height=50&lines=📚+Studying+Applied+Math+%26+CS+%40+MSU+Dushanbe;🤖+Building+AI+tools+and+Telegram+bots;📊+Learning+Machine+Learning+%26+Data+Analysis;🏆+Math+Olympiads+%7C+Dushanbe+→+Global" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FB923C&center=true&vCenter=true&width=680&height=50&lines=📚+Studying+Applied+Math+%26+CS+%40+MSU+Dushanbe;🤖+Building+AI+tools+and+Telegram+bots;📊+Learning+Machine+Learning+%26+Data+Analysis;🏆+Math+Olympiads+%7C+Dushanbe+→+Global" />
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/—%20Telegram-1a1a2e?style=for-the-badge&logo=telegram&logoColor=A78BFA)](https://t.me/davlatov3007)
-[![Gmail](https://img.shields.io/badge/—%20Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:davlatovsurob@gmail.com)
-[![GitHub](https://img.shields.io/badge/—%20GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=e2d9f3)](https://github.com/Suhrob4ikk)
+[![Telegram](https://img.shields.io/badge/—%20Telegram-1a0d00?style=for-the-badge&logo=telegram&logoColor=FB923C)](https://t.me/davlatov3007)
+[![Gmail](https://img.shields.io/badge/—%20Gmail-1a0d00?style=for-the-badge&logo=gmail&logoColor=f97316)](mailto:davlatovsurob@gmail.com)
+[![GitHub](https://img.shields.io/badge/—%20GitHub-1a0d00?style=for-the-badge&logo=github&logoColor=fde68a)](https://github.com/Suhrob4ikk)
 
 </div>
 
@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:1a0050&height=52&text=🧬%20WHO%20AM%20I&fontSize=22&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0800,100:3d1500&height=52&text=🧬%20WHO%20AM%20I&fontSize=22&fontColor=fde68a&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
@@ -67,7 +67,7 @@ status:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:1a0050&height=52&text=⚙️%20TECH%20STACK&fontSize=22&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0800,100:3d1500&height=52&text=⚙️%20TECH%20STACK&fontSize=22&fontColor=fde68a&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
@@ -91,8 +91,8 @@ status:
 
 <a href="https://pandas.pydata.org/docs/" title="Pandas"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="52" /></a>&nbsp;&nbsp;
 <a href="https://numpy.org/doc/" title="NumPy"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="52" /></a>&nbsp;&nbsp;
-<a href="https://jupyter.org/documentation" title="Jupyter"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="52" /></a>&nbsp;&nbsp;
-<a href="https://scikit-learn.org/stable/documentation.html" title="Scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="52" /></a>
+<a href="https://jupyter.org/" title="Jupyter"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="52" /></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="52" /></a>
 
 <br/><br/>
 
@@ -101,7 +101,7 @@ status:
 <br/>
 
 <a href="https://git-scm.com/doc" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="52" /></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/docs" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="52" /></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="52" /></a>&nbsp;&nbsp;
 <a href="https://docs.github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="52" /></a>&nbsp;&nbsp;
 <a href="https://docs.streamlit.io/" title="Streamlit"><img src="https://skillicons.dev/icons?i=streamlit&theme=dark" height="52" /></a>
 
@@ -125,20 +125,20 @@ status:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:1a0050&height=52&text=📊%20STATS&fontSize=22&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0800,100:3d1500&height=52&text=📊%20STATS&fontSize=22&fontColor=fde68a&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Suhrob4ikk&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=16&title_color=c4b5fd&icon_color=a78bfa&text_color=a5b4fc&bg_color=0d0020&count_private=true" width="48%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Suhrob4ikk&show_icons=true&hide_border=true&border_radius=16&title_color=fde68a&icon_color=fb923c&text_color=fed7aa&bg_color=0d0800&count_private=true" width="48%" />
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Suhrob4ikk&theme=midnight-purple&hide_border=true&border_radius=16&background=0d0020&stroke=7c3aed&ring=c4b5fd&fire=f59e0b&currStreakNum=e2d9f3&sideNums=a5b4fc&currStreakLabel=c4b5fd&sideLabels=818cf8&dates=6d7588" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Suhrob4ikk&hide_border=true&border_radius=16&background=0d0800&stroke=c2410c&ring=fde68a&fire=fb923c&currStreakNum=fde68a&sideNums=fed7aa&currStreakLabel=fde68a&sideLabels=fb923c&dates=a16207" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Suhrob4ikk&layout=compact&theme=midnight-purple&hide_border=true&title_color=c4b5fd&text_color=a5b4fc&bg_color=0d0020&langs_count=8&card_width=860" width="99%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Suhrob4ikk&layout=compact&hide_border=true&title_color=fde68a&text_color=fed7aa&bg_color=0d0800&langs_count=8&card_width=860" width="99%" />
 
 </div>
 
@@ -149,13 +149,13 @@ status:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:1a0050&height=52&text=📈%20ACTIVITY&fontSize=22&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0800,100:3d1500&height=52&text=📈%20ACTIVITY&fontSize=22&fontColor=fde68a&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhrob4ikk&theme=react-dark&bg_color=0d0020&color=c4b5fd&line=7c3aed&point=f59e0b&area=true&area_color=1a0050&hide_border=true&radius=12&custom_title=Contribution%20Graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhrob4ikk&bg_color=0d0800&color=fde68a&line=c2410c&point=fb923c&area=true&area_color=3d1500&hide_border=true&radius=12&custom_title=Contribution%20Graph" width="98%" />
 </div>
 
 <br/>
@@ -165,9 +165,9 @@ status:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0a0015,40:1a0040,100:3d1380&section=footer&text=◈%20Open%20to%20opportunities%20—%20Dushanbe%2C%20Tajikistan%20◈&fontSize=16&fontColor=c4b5fd&animation=twinkling&fontAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d0800,40:3d1500,100:7c3000&section=footer&text=◈%20Open%20to%20opportunities%20—%20Dushanbe%2C%20Tajikistan%20◈&fontSize=16&fontColor=fde68a&animation=twinkling&fontAlignY=72" width="100%" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Suhrob4ikk&label=◈%20VISITORS%20◈&color=7c3aed&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Suhrob4ikk&label=◈%20VISITORS%20◈&color=c2410c&style=flat-square)
 </div>
