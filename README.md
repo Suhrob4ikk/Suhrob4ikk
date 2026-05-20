@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Suhrob+Davlatov&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Math+CS+Student+%7C+Python+%7C+AI+%26+ML&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6e40c9&amp;height=200&amp;section=header&amp;text=Suhrob+Davlatov&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Math+CS+Student+%7C+Python+%7C+AI&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6e40c9&amp;height=100&amp;section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; WHO AM I
 
@@ -127,6 +127,6 @@ status:
 
 ![Visitor Count](https://profile-counter.glitch.me/Suhrob4ikk/count.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9,1f6feb&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6e40c9&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
