@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0d0800,50:7c3000,100:0d0800&text=Suhrob%20Davlatov&fontSize=52&fontColor=fde68a&animation=fadeIn&fontAlignY=52&desc=Math%20%26%20CS%20Student%20%7C%20Python%20%7C%20ML%20%7C%20AI&descSize=17&descAlignY=70&descColor=fb923c" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0d0800,50:7c3000,100:0d0800&text=Suhrob%20Davlatov&fontSize=52&fontColor=fde68a&animation=fadeIn&fontAlignY=52&desc=Math%20and%20CS%20Student%20%7C%20Python%20%7C%20ML%20%7C%20AI&descSize=17&descAlignY=70&descColor=fb923c" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FB923C&center=true&vCenter=true&width=680&height=50&lines=📚+Studying+Applied+Math+%26+CS+%40+MSU+Dushanbe;🤖+Building+AI+tools+and+Telegram+bots;📊+Learning+Machine+Learning+%26+Data+Analysis;🏆+Math+Olympiads+%7C+Dushanbe+→+Global" />
 
