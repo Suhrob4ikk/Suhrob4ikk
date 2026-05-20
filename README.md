@@ -49,7 +49,7 @@ status:
   passion:   Math olympiads
   goal:      ML Engineer
   open:      true  # open to internships
-` ``
+```
 
 </td>
 <td width="48%" valign="top" align="right">
@@ -164,3 +164,4 @@ status:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Suhrob4ikk&label=◈%20VISITORS%20◈&color=c2410c&style=flat-square)
 </div>
+
