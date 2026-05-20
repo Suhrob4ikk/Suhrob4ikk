@@ -125,7 +125,9 @@ status:
 
 ◆ &nbsp; Open to opportunities — Dushanbe, Tajikistan &nbsp; ◆
 
-![Visitor Count](https://profile-counter.glitch.me/Suhrob4ikk/count.svg)
+<img src="https://komarev.com/ghpvc/?username=Suhrob4ikk&color=blue" />
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6e40c9&amp;height=100&amp;section=footer" width="100%"/>
 
