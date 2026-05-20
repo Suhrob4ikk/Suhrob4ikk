@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0d0800,25:2d1000,60:7c3000,100:0d0800&text=Suhrob%20Davlatov&fontSize=52&fontColor=fde68a&animation=fadeIn&fontAlignY=52&desc=Math%20%26%20CS%20Student%20%7C%20Python%20%7C%20ML%20%7C%20AI&descSize=17&descAlignY=70&descColor=fb923c" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0d0800,50:7c3000,100:0d0800&text=Suhrob%20Davlatov&fontSize=52&fontColor=fde68a&animation=fadeIn&fontAlignY=52&desc=Math%20%26%20CS%20Student%20%7C%20Python%20%7C%20ML%20%7C%20AI&descSize=17&descAlignY=70&descColor=fb923c" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FB923C&center=true&vCenter=true&width=680&height=50&lines=📚+Studying+Applied+Math+%26+CS+%40+MSU+Dushanbe;🤖+Building+AI+tools+and+Telegram+bots;📊+Learning+Machine+Learning+%26+Data+Analysis;🏆+Math+Olympiads+%7C+Dushanbe+→+Global" />
 
@@ -102,8 +102,7 @@ status:
 
 <a href="https://git-scm.com/doc" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="52" /></a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="52" /></a>&nbsp;&nbsp;
-<a href="https://docs.github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="52" /></a>&nbsp;&nbsp;
-<a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="52" /></a>
+<a href="https://docs.github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="52" /></a>
 
 <br/><br/>
 
@@ -132,7 +131,7 @@ status:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suhrob4ikk&show_icons=true&hide_border=true&bg_color=0d0800&title_color=fde68a&icon_color=fb923c&text_color=fed7aa&ring_color=c2410c" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Suhrob4ikk&show_icons=true&hide_border=true&bg_color=0d0800&title_color=fde68a&icon_color=fb923c&text_color=fed7aa&border_radius=16" width="60%" />
 
 </div>
 
@@ -159,7 +158,7 @@ status:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d0800,40:3d1500,100:7c3000&section=footer&text=◈%20Open%20to%20opportunities%20—%20Dushanbe%2C%20Tajikistan%20◈&fontSize=16&fontColor=fde68a&animation=fadeIn&fontAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d0800,40:3d1500,100:7c3000&section=footer&text=◈%20Open%20to%20opportunities%20—%20Dushanbe%2C%20Tajikistan%20◈&fontSize=16&fontColor=fde68a&animation=twinkling&fontAlignY=72" width="100%" />
 
 <br/>
 
