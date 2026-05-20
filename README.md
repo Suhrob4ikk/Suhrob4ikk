@@ -49,7 +49,7 @@ status:
   passion:   Math olympiads
   goal:      ML Engineer
   open:      true  # open to internships
-```
+` ``
 
 </td>
 <td width="48%" valign="top" align="right">
@@ -131,7 +131,7 @@ status:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suhrob4ikk&show_icons=true&hide_border=true&bg_color=0d0800&title_color=fde68a&icon_color=fb923c&text_color=fed7aa&border_radius=16" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=Suhrob4ikk&hide_border=true&border_radius=16&background=0d0800&stroke=c2410c&ring=fde68a&fire=fb923c&currStreakNum=fde68a&sideNums=fed7aa&currStreakLabel=fde68a&sideLabels=fb923c&dates=a16207" width="60%" />
 
 </div>
 
