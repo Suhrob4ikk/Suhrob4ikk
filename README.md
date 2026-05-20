@@ -49,7 +49,7 @@ status:
   passion:   Math olympiads
   goal:      ML Engineer
   open:      true  # open to internships
-` ``
+```
 
 </td>
 <td width="48%" valign="top" align="right">
