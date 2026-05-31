@@ -72,11 +72,14 @@ status:
 
 <div align="center">
 
-[![MathCore](https://github-readme-stats.vercel.app/api/pin/?username=Suhrob4ikk&repo=Calculus&bg_color=020818&border_color=0f2557&title_color=e2c96e&text_color=7eb8d8&icon_color=58a6ff)](https://github.com/Suhrob4ikk/Calculus)
+[![MathCore](https://img.shields.io/badge/MathCore-Тренажёр_по_высшей_математике-020818?style=for-the-badge&logo=electron&logoColor=e2c96e)](https://github.com/Suhrob4ikk/Calculus)
 
-**[🌐 Live Demo](https://mathcore-app.netlify.app)** &nbsp;·&nbsp; **[📱 Android APK](https://github.com/Suhrob4ikk/Calculus)** &nbsp;·&nbsp; **[🖥 Windows App](https://github.com/Suhrob4ikk/Calculus)**
+| | |
+|:---:|:---:|
+| 🌐 [**Live Demo**](https://mathcore-app.netlify.app) | 📱 [**Android APK**](https://github.com/Suhrob4ikk/Calculus/releases) |
+| 🖥 [**Windows App**](https://github.com/Suhrob4ikk/Calculus/releases) | ⭐ [**Source Code**](https://github.com/Suhrob4ikk/Calculus) |
 
-> Interactive Math trainer — 1000+ problems · 6 sections · Duels · Daily Challenge · PWA
+> Interactive Math trainer · 1000+ problems · 6 sections · Duels · Daily Challenge · PWA · Electron
 
 </div>
 
@@ -152,11 +155,7 @@ status:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Suhrob4ikk&hide_border=true&border_radius=16&background=020818&stroke=0f2557&ring=e2c96e&fire=58a6ff&currStreakNum=e2c96e&sideNums=7eb8d8&currStreakLabel=e2c96e&sideLabels=58a6ff&dates=4a6fa5" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhrob4ikk&layout=compact&bg_color=020818&border_color=0f2557&title_color=e2c96e&text_color=7eb8d8&icon_color=58a6ff" width="38%" />
+<img src="https://streak-stats.demolab.com/?user=Suhrob4ikk&hide_border=true&border_radius=16&background=020818&stroke=0f2557&ring=e2c96e&fire=58a6ff&currStreakNum=e2c96e&sideNums=7eb8d8&currStreakLabel=e2c96e&sideLabels=58a6ff&dates=4a6fa5" width="70%" />
 
 </div>
 
