@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=0:020818,50:0f2557,100:020818&amp;text=Suhrob%20Davlatov&amp;fontSize=52&amp;fontColor=e2c96e&amp;animation=fadeIn&amp;fontAlignY=52&amp;desc=Applied%20Math%20%26%20CS%20%7C%20Python%20%7C%20ML%20%7C%20AI&amp;descSize=17&amp;descAlignY=70&amp;descColor=7eb8d8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020818,50:0f2557,100:020818&text=Suhrob%20Davlatov&fontSize=52&fontColor=e2c96e&animation=fadeIn&fontAlignY=52&desc=Applied%20Math%20CS%20Python%20ML%20AI&descSize=17&descAlignY=70&descColor=7eb8d8" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;duration=2800&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=50&amp;lines=📚+Applied+Math+%26+CS+%40+MSU+Dushanbe;🤖+Building+AI+tools+%26+web+apps;📊+Learning+Machine+Learning+%26+Data+Analysis;🏆+Math+Olympiads+·+Dushanbe+→+Global;🚀+Creator+of+MathCore+—+Math+Trainer+App" />
 
@@ -45,8 +45,8 @@ stack:
   web:      [ HTML, JS, Supabase ]
 
 status:
-  studying:  Machine Learning &amp; Data Analysis
-  passion:   Math olympiads &amp; building apps
+  studying:  Machine Learning & Data Analysis
+  passion:   Math olympiads & building apps
   goal:      ML Engineer
   open:      true  # open to internships
 ```
