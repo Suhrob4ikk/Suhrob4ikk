@@ -45,8 +45,8 @@ stack:
   web:      [ HTML, JS, Supabase ]
 
 status:
-  studying:  Machine Learning & Data Analysis
-  passion:   Math olympiads & building apps
+  studying:  Machine Learning &amp; Data Analysis
+  passion:   Math olympiads &amp; building apps
   goal:      ML Engineer
   open:      true  # open to internships
 ```
@@ -172,7 +172,7 @@ status:
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhrob4ikk&bg_color=020818&color=e2c96e&line=0f2557&point=58a6ff&area=true&area_color=0f2557&hide_border=true&radius=12&custom_title=Contribution%20Graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhrob4ikk&amp;bg_color=020818&amp;color=e2c96e&amp;line=0f2557&amp;point=58a6ff&amp;area=true&amp;area_color=0f2557&amp;hide_border=true&amp;radius=12&amp;custom_title=Contribution%20Graph" width="98%" />
 </div>
 
 <br/>
